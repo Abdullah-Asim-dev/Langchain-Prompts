@@ -1,0 +1,21 @@
+#langchain
+langchain
+langchain-core
+#openai
+openai
+langchain-openai
+#anthropic
+langchain-anthropic
+anthropic
+#google gemin
+langchain-google-genai
+google-generativeai
+#hugging face
+langchain-huggingface
+transformers
+huggingface-hub
+#envrionme
+python-dotenv
+#ml
+numpy
+scikit-learn
